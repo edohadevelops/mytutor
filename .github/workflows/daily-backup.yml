@@ -1,0 +1,36 @@
+name: Daily Supabase Backup
+
+# Runs automatically every day at 09:00 UTC, and can also be triggered
+# manually from the Actions tab. Requires the repo to be pushed to
+# GitHub — this does nothing if you're only running the app locally.
+on:
+  schedule:
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install backup script dependency
+        run: npm install node-fetch
+
+      - name: Run backup
+        run: node backup.js
+
+      - name: Commit backup file
+        run: |
+          git config user.name "backup-bot"
+          git config user.email "backup-bot@users.noreply.github.com"
+          git add backups/
+          git diff --quiet --cached || git commit -m "Daily backup $(date -u +%Y-%m-%d)"
+          git push
