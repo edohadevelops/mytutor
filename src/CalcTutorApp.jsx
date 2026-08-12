@@ -2910,7 +2910,60 @@ function dateStr(d) {
   return d.toISOString().slice(0, 10);
 }
 
+// Final week (Aug 12 - Aug 18, 2026) is hardcoded directly from the tutor's
+// own written plan rather than auto-spaced, since with this few days left
+// several sessions/HW sets land on the same day and the generic one-a-day
+// spacing algorithm can't represent that. Falls back to the old auto-spaced
+// generator for any date outside this explicit window (shouldn't normally
+// happen before the final, but keeps the function safe if ever reloaded
+// after Aug 18 or from a stale/reset state before Aug 12).
+const FINAL_WEEK_PLAN = {
+  "2026-08-12": [
+    { text: "Sessions 5, 6, 7 practice", kind: "session" },
+    { text: "HW 5", kind: "review" },
+  ],
+  "2026-08-13": [
+    { text: "Sessions 8 & 9 practice", kind: "session" },
+    { text: "HW 6", kind: "review" },
+    { text: "Quick overview of Sessions 10 & 11 (7.1-7.4)", kind: "review" },
+  ],
+  "2026-08-14": [
+    { text: "Review with your tutor", kind: "review" },
+    { text: "Create cheat sheet", kind: "review" },
+  ],
+  "2026-08-15": [
+    { text: "Do HW 7", kind: "review" },
+    { text: "Watch videos", kind: "review" },
+    { text: "Review", kind: "review" },
+  ],
+  "2026-08-16": [
+    { text: "Do practice exam (Mock Final)", kind: "review" },
+    { text: "Review cheat sheet", kind: "review" },
+  ],
+  "2026-08-17": [
+    { text: "Get every problem's answer worked out the way you like it", kind: "review" },
+    { text: "Get all HWs turned in", kind: "review" },
+  ],
+  "2026-08-18": [{ text: "Final exam — you've got this.", kind: "exam" }],
+};
+
 function buildTaskPlan(currentSessionId) {
+  const planDates = Object.keys(FINAL_WEEK_PLAN).sort();
+  const today = dateStr(new Date());
+  if (today >= planDates[0] && today <= planDates[planDates.length - 1]) {
+    const tasks = [];
+    planDates.forEach((date) => {
+      if (date < today) return; // don't resurrect past days on a fresh build
+      FINAL_WEEK_PLAN[date].forEach((item, i) => {
+        tasks.push({ id: `t-${date}-${i}`, date, text: item.text, done: false, kind: item.kind });
+      });
+    });
+    return tasks;
+  }
+  return buildAutoSpacedTaskPlan(currentSessionId);
+}
+
+function buildAutoSpacedTaskPlan(currentSessionId) {
   const today = new Date();
   today.setHours(0, 0, 0, 0);
   const final = new Date(FINAL_DATE);
@@ -3045,7 +3098,8 @@ function AddTaskForm({ onAdd }) {
   );
 }
 
-function TasksView({ tasks, onToggle, onAdd, onDelete }) {
+function TasksView({ tasks, onToggle, onAdd, onDelete, role, onReset }) {
+  const [confirmingReset, setConfirmingReset] = useState(false);
   const todayStr = dateStr(new Date());
   const grouped = {};
   tasks.forEach((t) => {
@@ -3064,6 +3118,24 @@ function TasksView({ tasks, onToggle, onAdd, onDelete }) {
       <p style={{ color: T.chalkDim, fontSize: 13.5, marginBottom: 16 }}>
         Preset from today through the final — one task a day, check it off as you go. Your tutor can also drop in extra tasks any time.
       </p>
+      {role === "tutor" && (
+        <Card className="p-3 mb-4 flex items-center justify-between flex-wrap gap-2">
+          {!confirmingReset ? (
+            <>
+              <span style={{ color: T.chalkDim, fontSize: 12.5 }}>Task list out of date or wrong? Rebuild it from this week's plan.</span>
+              <ChalkButton variant="ghost" onClick={() => setConfirmingReset(true)}>Reset task plan</ChalkButton>
+            </>
+          ) : (
+            <>
+              <span style={{ color: T.coral, fontSize: 12.5 }}>This replaces every task below (including checked-off ones) with the current default plan. Sure?</span>
+              <div className="flex gap-2">
+                <ChalkButton variant="primary" onClick={() => { onReset(); setConfirmingReset(false); }}>Yes, reset it</ChalkButton>
+                <ChalkButton variant="ghost" onClick={() => setConfirmingReset(false)}>Cancel</ChalkButton>
+              </div>
+            </>
+          )}
+        </Card>
+      )}
       <AddTaskForm onAdd={onAdd} />
       <div className="space-y-5">
         {dates.map((d) => {
@@ -3990,6 +4062,12 @@ export default function CalcTutorApp() {
     saveState("tasks", next);
   };
 
+  const resetTasks = () => {
+    const fresh = buildTaskPlan(currentSessionId);
+    setTasks(fresh);
+    saveState("tasks", fresh);
+  };
+
   const setThemeAndSave = (t) => { setTheme(t); saveState("theme", t); };
   const setFontSizeAndSave = (s) => { setFontSize(s); saveState("font-size", s); };
   const setFontFamilyAndSave = (f) => { setFontFamily(f); saveState("font-family", f); };
@@ -4165,7 +4243,7 @@ export default function CalcTutorApp() {
                 onOpenTasks={() => setView("tasks")}
               />
             )}
-            {view === "tasks" && <TasksView tasks={tasks} onToggle={toggleTask} onAdd={addTask} onDelete={deleteTask} />}
+            {view === "tasks" && <TasksView tasks={tasks} onToggle={toggleTask} onAdd={addTask} onDelete={deleteTask} role={role} onReset={resetTasks} />}
             {view === "session" && activeSession && (
               <SessionFlow
                 session={activeSession}
