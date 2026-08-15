@@ -1,0 +1,4847 @@
+{
+  "exportedAt": "2026-08-15T09:15:53.535Z",
+  "student": "Noah",
+  "rowCount": 30,
+  "data": {
+    "backup:2026-07-27": {
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        }
+      }
+    },
+    "backup:2026-07-28": {
+      "theme": "dark",
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        }
+      },
+      "last-backup-date": "2026-07-27",
+      "explored-sessions": [
+        1
+      ]
+    },
+    "backup:2026-07-29": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": false,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "last-backup-date": "2026-07-28",
+      "explored-sessions": [
+        1,
+        12
+      ],
+      "last-seen-daily-plan": "2026-07-29"
+    },
+    "backup:2026-07-30": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": false,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "miss"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "last-backup-date": "2026-07-29",
+      "explored-sessions": [
+        1,
+        12
+      ],
+      "last-seen-daily-plan": "2026-07-30"
+    },
+    "backup:2026-07-31": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": false,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 45,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-07-30",
+      "explored-sessions": [
+        1,
+        12
+      ],
+      "current-session-id": 3,
+      "last-seen-daily-plan": "2026-07-31"
+    },
+    "backup:2026-08-01": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 45,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-07-31",
+      "explored-sessions": [
+        1,
+        12
+      ],
+      "current-session-id": 3,
+      "last-seen-daily-plan": "2026-08-01"
+    },
+    "backup:2026-08-02": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 45,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-01",
+      "explored-sessions": [
+        1,
+        12
+      ],
+      "current-session-id": 3,
+      "last-seen-daily-plan": "2026-08-02"
+    },
+    "backup:2026-08-03": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-02",
+      "explored-sessions": [
+        1,
+        12
+      ],
+      "current-session-id": 4,
+      "last-seen-daily-plan": "2026-08-03"
+    },
+    "backup:2026-08-04": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-03",
+      "explored-sessions": [
+        1,
+        12
+      ],
+      "current-session-id": 4,
+      "last-seen-daily-plan": "2026-08-04"
+    },
+    "backup:2026-08-05": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-04",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-05"
+    },
+    "backup:2026-08-06": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-05",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-06"
+    },
+    "backup:2026-08-07": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-07",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-07"
+    },
+    "backup:2026-08-08": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-07",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-08"
+    },
+    "backup:2026-08-09": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-08",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-09"
+    },
+    "backup:2026-08-10": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-09",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-10"
+    },
+    "backup:2026-08-11": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-10",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-11"
+    },
+    "backup:2026-08-12": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe1a": "got",
+        "fe1b": "got",
+        "fe1c": "got",
+        "fe2a": "got",
+        "fe2b": "miss",
+        "fe2c": "got",
+        "fe3a": "got",
+        "fe3b": "got",
+        "fe4a": "got",
+        "fe8i": "got"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-2": {
+          "note": "I want to cover the squeeze theorem more, as well as bounded monotone limits.",
+          "feeling": "okay"
+        },
+        "post-3": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-11",
+      "explored-sessions": [
+        1,
+        12,
+        4
+      ],
+      "current-session-id": 5,
+      "last-seen-daily-plan": "2026-08-12"
+    },
+    "backup:2026-08-13": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe1a": "got",
+        "fe1b": "got",
+        "fe1c": "got",
+        "fe2a": "got",
+        "fe2b": "miss",
+        "fe2c": "got",
+        "fe3a": "got",
+        "fe3b": "got",
+        "fe4a": "got",
+        "fe4b": "got",
+        "fe5b": "got",
+        "fe6a": "got",
+        "fe6b": "got",
+        "fe7i": "got",
+        "fe8i": "got",
+        "fe9i": "got",
+        "fe10i": "got",
+        "fe7ii": "miss",
+        "fe8ii": "got",
+        "fe9ii": "got",
+        "fe10ii": "got",
+        "fe-simpson": "miss"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "pre-5": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "pre-6": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "pre-7": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "post-1": {
+          "note": "",
+          "feeling": null
+        },
+        "post-2": {
+          "note": "pretty solid on this section",
+          "feeling": "confident"
+        },
+        "post-3": {
+          "note": "I just want to go over second order telescoping.",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        },
+        "post-5": {
+          "note": "good, what to go over alternating series test ",
+          "feeling": null
+        },
+        "post-6": {
+          "note": "",
+          "feeling": "confident"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        },
+        {
+          "id": 5,
+          "type": "new",
+          "week": 2,
+          "title": "Comparison & Alternating Series",
+          "topics": [
+            "5.4",
+            "5.5"
+          ]
+        },
+        {
+          "id": 6,
+          "type": "new",
+          "week": 2,
+          "title": "Ratio & Root Tests",
+          "topics": [
+            "5.6"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-12",
+      "explored-sessions": [
+        1,
+        12,
+        4,
+        2,
+        3
+      ],
+      "current-session-id": 7,
+      "last-seen-daily-plan": "2026-08-13"
+    },
+    "backup:2026-08-14": {
+      "tasks": [
+        {
+          "id": "t-2026-07-28",
+          "date": "2026-07-28",
+          "done": true,
+          "kind": "session",
+          "text": "Session 2: Improper Integrals & Sequences",
+          "sessionId": 2
+        },
+        {
+          "id": "t-2026-07-29",
+          "date": "2026-07-29",
+          "done": false,
+          "kind": "session",
+          "text": "Session 3: Infinite Series (Quiz 2 today)",
+          "sessionId": 3
+        },
+        {
+          "id": "t-2026-07-30",
+          "date": "2026-07-30",
+          "done": false,
+          "kind": "session",
+          "text": "Session 4: Divergence & Integral Test",
+          "sessionId": 4
+        },
+        {
+          "id": "t-2026-07-31",
+          "date": "2026-07-31",
+          "done": false,
+          "kind": "session",
+          "text": "Session 5: Comparison & Alternating Series",
+          "sessionId": 5
+        },
+        {
+          "id": "t-2026-08-01",
+          "date": "2026-08-01",
+          "done": false,
+          "kind": "session",
+          "text": "Session 6: Ratio & Root Tests",
+          "sessionId": 6
+        },
+        {
+          "id": "t-2026-08-02",
+          "date": "2026-08-02",
+          "done": false,
+          "kind": "session",
+          "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+          "sessionId": 7
+        },
+        {
+          "id": "t-2026-08-03",
+          "date": "2026-08-03",
+          "done": false,
+          "kind": "session",
+          "text": "Session 8: Properties & Taylor Series",
+          "sessionId": 8
+        },
+        {
+          "id": "t-2026-08-04",
+          "date": "2026-08-04",
+          "done": false,
+          "kind": "session",
+          "text": "Session 9: Working with Taylor Series",
+          "sessionId": 9
+        },
+        {
+          "id": "t-2026-08-05",
+          "date": "2026-08-05",
+          "done": false,
+          "kind": "session",
+          "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+          "sessionId": 10
+        },
+        {
+          "id": "t-2026-08-06",
+          "date": "2026-08-06",
+          "done": false,
+          "kind": "session",
+          "text": "Session 11: Polar Area & Arc Length",
+          "sessionId": 11
+        },
+        {
+          "id": "t-2026-08-07",
+          "date": "2026-08-07",
+          "done": false,
+          "kind": "session",
+          "text": "Session 12: Comprehensive Review (Final today)",
+          "sessionId": 12
+        },
+        {
+          "id": "t-2026-08-08",
+          "date": "2026-08-08",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-09",
+          "date": "2026-08-09",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-10",
+          "date": "2026-08-10",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-11",
+          "date": "2026-08-11",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-12",
+          "date": "2026-08-12",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-13",
+          "date": "2026-08-13",
+          "done": false,
+          "kind": "review",
+          "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+        },
+        {
+          "id": "t-2026-08-14",
+          "date": "2026-08-14",
+          "done": false,
+          "kind": "review",
+          "text": "Work through 3 problems in Focus Session"
+        },
+        {
+          "id": "t-2026-08-15",
+          "date": "2026-08-15",
+          "done": false,
+          "kind": "review",
+          "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+        },
+        {
+          "id": "t-2026-08-16",
+          "date": "2026-08-16",
+          "done": false,
+          "kind": "review",
+          "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+        },
+        {
+          "id": "t-2026-08-17",
+          "date": "2026-08-17",
+          "done": false,
+          "kind": "review",
+          "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+        },
+        {
+          "id": "t-2026-08-18",
+          "date": "2026-08-18",
+          "done": false,
+          "kind": "exam",
+          "text": "Final exam — you've got this."
+        }
+      ],
+      "theme": "dark",
+      "mastery": {
+        "Power": 10,
+        "Series": 65,
+        "Parametric": 5,
+        "Techniques": 55
+      },
+      "hw-state": {
+        "8": "miss",
+        "10": "got",
+        "18": "miss",
+        "26": "got",
+        "29": "got",
+        "30": "got",
+        "34": "got",
+        "38": "got",
+        "41": "miss",
+        "42": "miss",
+        "68": "got",
+        "70": "got",
+        "71": "got",
+        "76": "miss",
+        "78": "got",
+        "81": "got",
+        "82": "miss",
+        "86": "got",
+        "90": "miss",
+        "91": "miss",
+        "364": "got",
+        "372": "got",
+        "373": "got",
+        "403": "got",
+        "fe1a": "got",
+        "fe1b": "got",
+        "fe1c": "got",
+        "fe2a": "got",
+        "fe2b": "miss",
+        "fe2c": "got",
+        "fe3a": "got",
+        "fe3b": "got",
+        "fe4a": "got",
+        "fe4b": "got",
+        "fe5b": "got",
+        "fe6a": "got",
+        "fe6b": "got",
+        "fe7i": "got",
+        "fe8i": "got",
+        "fe9i": "got",
+        "fe10i": "got",
+        "fe7ii": "miss",
+        "fe8ii": "got",
+        "fe9ii": "got",
+        "fe10ii": "got",
+        "fe-simpson": "miss"
+      },
+      "check-ins": {
+        "pre-1": {
+          "note": "",
+          "feeling": "okay"
+        },
+        "pre-2": {
+          "note": "confident",
+          "feeling": "confident"
+        },
+        "pre-3": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "pre-5": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "pre-6": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "pre-7": {
+          "note": "",
+          "feeling": "confident"
+        },
+        "post-1": {
+          "note": "",
+          "feeling": null
+        },
+        "post-2": {
+          "note": "pretty solid on this section",
+          "feeling": "confident"
+        },
+        "post-3": {
+          "note": "I just want to go over second order telescoping.",
+          "feeling": "okay"
+        },
+        "post-4": {
+          "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+          "feeling": null
+        },
+        "post-5": {
+          "note": "good, what to go over alternating series test ",
+          "feeling": null
+        },
+        "post-6": {
+          "note": "",
+          "feeling": "confident"
+        }
+      },
+      "flash-boxes": {
+        "fc1": 2,
+        "fc3": 2
+      },
+      "session-log": [
+        {
+          "id": 2,
+          "type": "new",
+          "week": 1,
+          "title": "Improper Integrals & Sequences",
+          "topics": [
+            "3.7",
+            "5.1"
+          ]
+        },
+        {
+          "id": 3,
+          "quiz": "Quiz 2",
+          "type": "new",
+          "week": 1,
+          "title": "Infinite Series",
+          "topics": [
+            "5.2"
+          ]
+        },
+        {
+          "id": 4,
+          "type": "new",
+          "week": 2,
+          "title": "Divergence & Integral Test",
+          "topics": [
+            "5.3"
+          ]
+        },
+        {
+          "id": 5,
+          "type": "new",
+          "week": 2,
+          "title": "Comparison & Alternating Series",
+          "topics": [
+            "5.4",
+            "5.5"
+          ]
+        },
+        {
+          "id": 6,
+          "type": "new",
+          "week": 2,
+          "title": "Ratio & Root Tests",
+          "topics": [
+            "5.6"
+          ]
+        }
+      ],
+      "last-backup-date": "2026-08-13",
+      "explored-sessions": [
+        1,
+        12,
+        4,
+        2,
+        3
+      ],
+      "current-session-id": 7,
+      "last-seen-daily-plan": "2026-08-14"
+    },
+    "check-ins": {
+      "pre-1": {
+        "note": "",
+        "feeling": "okay"
+      },
+      "pre-2": {
+        "note": "confident",
+        "feeling": "confident"
+      },
+      "pre-3": {
+        "note": "",
+        "feeling": "confident"
+      },
+      "pre-5": {
+        "note": "",
+        "feeling": "confident"
+      },
+      "pre-6": {
+        "note": "",
+        "feeling": "confident"
+      },
+      "pre-7": {
+        "note": "",
+        "feeling": "confident"
+      },
+      "post-1": {
+        "note": "",
+        "feeling": null
+      },
+      "post-2": {
+        "note": "pretty solid on this section",
+        "feeling": "confident"
+      },
+      "post-3": {
+        "note": "I just want to go over second order telescoping.",
+        "feeling": "okay"
+      },
+      "post-4": {
+        "note": "the integral test was the only thing covered in the practice.  Need to revisit power series, and divergence test.",
+        "feeling": null
+      },
+      "post-5": {
+        "note": "good, what to go over alternating series test ",
+        "feeling": null
+      },
+      "post-6": {
+        "note": "",
+        "feeling": "confident"
+      }
+    },
+    "current-session-id": 7,
+    "explored-sessions": [
+      1,
+      12,
+      4,
+      2,
+      3
+    ],
+    "flash-boxes": {
+      "fc1": 2,
+      "fc3": 2
+    },
+    "hw-state": {
+      "8": "miss",
+      "10": "got",
+      "18": "miss",
+      "26": "got",
+      "29": "got",
+      "30": "got",
+      "34": "got",
+      "38": "got",
+      "41": "miss",
+      "42": "miss",
+      "68": "got",
+      "70": "got",
+      "71": "got",
+      "76": "miss",
+      "78": "got",
+      "81": "got",
+      "82": "miss",
+      "86": "got",
+      "90": "miss",
+      "91": "miss",
+      "364": "got",
+      "372": "got",
+      "373": "got",
+      "403": "got",
+      "fe1a": "got",
+      "fe1b": "got",
+      "fe1c": "got",
+      "fe2a": "got",
+      "fe2b": "miss",
+      "fe2c": "got",
+      "fe3a": "got",
+      "fe3b": "got",
+      "fe4a": "got",
+      "fe4b": "got",
+      "fe5b": "got",
+      "fe6a": "got",
+      "fe6b": "got",
+      "fe7i": "got",
+      "fe8i": "got",
+      "fe9i": "got",
+      "fe10i": "got",
+      "fe7ii": "miss",
+      "fe8ii": "got",
+      "fe9ii": "got",
+      "fe10ii": "got",
+      "fe-simpson": "miss"
+    },
+    "last-backup-date": "2026-08-14",
+    "last-seen-daily-plan": "2026-08-14",
+    "mastery": {
+      "Power": 10,
+      "Series": 65,
+      "Parametric": 5,
+      "Techniques": 55
+    },
+    "session-log": [
+      {
+        "id": 2,
+        "type": "new",
+        "week": 1,
+        "title": "Improper Integrals & Sequences",
+        "topics": [
+          "3.7",
+          "5.1"
+        ]
+      },
+      {
+        "id": 3,
+        "quiz": "Quiz 2",
+        "type": "new",
+        "week": 1,
+        "title": "Infinite Series",
+        "topics": [
+          "5.2"
+        ]
+      },
+      {
+        "id": 4,
+        "type": "new",
+        "week": 2,
+        "title": "Divergence & Integral Test",
+        "topics": [
+          "5.3"
+        ]
+      },
+      {
+        "id": 5,
+        "type": "new",
+        "week": 2,
+        "title": "Comparison & Alternating Series",
+        "topics": [
+          "5.4",
+          "5.5"
+        ]
+      },
+      {
+        "id": 6,
+        "type": "new",
+        "week": 2,
+        "title": "Ratio & Root Tests",
+        "topics": [
+          "5.6"
+        ]
+      }
+    ],
+    "tasks": [
+      {
+        "id": "t-2026-07-28",
+        "date": "2026-07-28",
+        "done": true,
+        "kind": "session",
+        "text": "Session 2: Improper Integrals & Sequences",
+        "sessionId": 2
+      },
+      {
+        "id": "t-2026-07-29",
+        "date": "2026-07-29",
+        "done": false,
+        "kind": "session",
+        "text": "Session 3: Infinite Series (Quiz 2 today)",
+        "sessionId": 3
+      },
+      {
+        "id": "t-2026-07-30",
+        "date": "2026-07-30",
+        "done": false,
+        "kind": "session",
+        "text": "Session 4: Divergence & Integral Test",
+        "sessionId": 4
+      },
+      {
+        "id": "t-2026-07-31",
+        "date": "2026-07-31",
+        "done": false,
+        "kind": "session",
+        "text": "Session 5: Comparison & Alternating Series",
+        "sessionId": 5
+      },
+      {
+        "id": "t-2026-08-01",
+        "date": "2026-08-01",
+        "done": false,
+        "kind": "session",
+        "text": "Session 6: Ratio & Root Tests",
+        "sessionId": 6
+      },
+      {
+        "id": "t-2026-08-02",
+        "date": "2026-08-02",
+        "done": false,
+        "kind": "session",
+        "text": "Session 7: Power Series & Functions (Quiz 3 today)",
+        "sessionId": 7
+      },
+      {
+        "id": "t-2026-08-03",
+        "date": "2026-08-03",
+        "done": false,
+        "kind": "session",
+        "text": "Session 8: Properties & Taylor Series",
+        "sessionId": 8
+      },
+      {
+        "id": "t-2026-08-04",
+        "date": "2026-08-04",
+        "done": false,
+        "kind": "session",
+        "text": "Session 9: Working with Taylor Series",
+        "sessionId": 9
+      },
+      {
+        "id": "t-2026-08-05",
+        "date": "2026-08-05",
+        "done": false,
+        "kind": "session",
+        "text": "Session 10: Parametric & Polar (Quiz 4 today)",
+        "sessionId": 10
+      },
+      {
+        "id": "t-2026-08-06",
+        "date": "2026-08-06",
+        "done": false,
+        "kind": "session",
+        "text": "Session 11: Polar Area & Arc Length",
+        "sessionId": 11
+      },
+      {
+        "id": "t-2026-08-07",
+        "date": "2026-08-07",
+        "done": false,
+        "kind": "session",
+        "text": "Session 12: Comprehensive Review (Final today)",
+        "sessionId": 12
+      },
+      {
+        "id": "t-2026-08-08",
+        "date": "2026-08-08",
+        "done": false,
+        "kind": "review",
+        "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+      },
+      {
+        "id": "t-2026-08-09",
+        "date": "2026-08-09",
+        "done": false,
+        "kind": "review",
+        "text": "Work through 3 problems in Focus Session"
+      },
+      {
+        "id": "t-2026-08-10",
+        "date": "2026-08-10",
+        "done": false,
+        "kind": "review",
+        "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+      },
+      {
+        "id": "t-2026-08-11",
+        "date": "2026-08-11",
+        "done": false,
+        "kind": "review",
+        "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+      },
+      {
+        "id": "t-2026-08-12",
+        "date": "2026-08-12",
+        "done": false,
+        "kind": "review",
+        "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+      },
+      {
+        "id": "t-2026-08-13",
+        "date": "2026-08-13",
+        "done": false,
+        "kind": "review",
+        "text": "Review 10 flashcards (spaced repetition — cards you're shaky on come back sooner)"
+      },
+      {
+        "id": "t-2026-08-14",
+        "date": "2026-08-14",
+        "done": false,
+        "kind": "review",
+        "text": "Work through 3 problems in Focus Session"
+      },
+      {
+        "id": "t-2026-08-15",
+        "date": "2026-08-15",
+        "done": false,
+        "kind": "review",
+        "text": "Revisit one flagged 'still shaky' problem in the Practice Bank until it clicks"
+      },
+      {
+        "id": "t-2026-08-16",
+        "date": "2026-08-16",
+        "done": false,
+        "kind": "review",
+        "text": "Skim the Formula Sheet for this week's topics — say each 'why' and 'when' out loud"
+      },
+      {
+        "id": "t-2026-08-17",
+        "date": "2026-08-17",
+        "done": false,
+        "kind": "review",
+        "text": "Light day — 15 minutes, your choice: flashcards, Focus Session, or re-read one Concept step"
+      },
+      {
+        "id": "t-2026-08-18",
+        "date": "2026-08-18",
+        "done": false,
+        "kind": "exam",
+        "text": "Final exam — you've got this."
+      }
+    ],
+    "theme": "dark"
+  },
+  "messages": []
+}
